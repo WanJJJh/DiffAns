@@ -1,6 +1,23 @@
 # Conditional Diffusion Model for Open-ended Video Question Answering
 This is the implementation of paper Conditional Diffusion Model for Open-ended Video Question Answering.
 
+# Method
+
+
+# Overview
+## Datasets
+TGIF-FrameQA: https://github.com/YunseokJANG/tgif-qa
+
+MSVD-QA and MSRVTT-QA: https://github.com/xudejing/video-question-answering
+## Backbones
+The parameters of backbones are from huggingface.
+
+ViT: https://huggingface.co/openai/clip-vit-large-patch14
+
+RoBERTa: https://huggingface.co/FacebookAI/roberta-base
+## Traning Scripts
+The traning scripts are in directory: "training_sh/"
+
 # Acknowledgments
 Thanks for the following open source works and some codes are borrowed from them:
 
