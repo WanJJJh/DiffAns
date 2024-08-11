@@ -1,5 +1,6 @@
-# DiffAns
-This is the implementation of DiffAns.
+# Conditional Diffusion Model for Open-ended Video Question Answering
+This is the implementation of paper Conditional Diffusion Model for Open-ended Video Question Answering.
+
 # Acknowledgments
 Thanks for the following open source works and some codes are borrowed from them:
 
