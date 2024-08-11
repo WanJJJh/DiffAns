@@ -2,7 +2,7 @@
 This is the implementation of paper Conditional Diffusion Model for Open-ended Video Question Answering.
 
 # Method
-![DiffAns.pdf](DiffAns.pdf "method")
+![DiffAns](DiffAns.pdf "method")
 
 # Overview
 ## Datasets
