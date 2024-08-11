@@ -1,8 +1,8 @@
 # Conditional Diffusion Model for Open-ended Video Question Answering
 This is the implementation of paper Conditional Diffusion Model for Open-ended Video Question Answering.
 
-# Method
-![DiffAns](DiffAns.pdf "method")
+/// # Method
+/// ![DiffAns](DiffAns.pdf "method")
 
 # Overview
 ## Datasets
